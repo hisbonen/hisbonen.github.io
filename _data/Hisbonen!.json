@@ -1,0 +1,586 @@
+{
+ "displayTopicName": "Hisbonen\\!",
+ "topicTokens": [
+  {
+   "text": "Hisbonen!",
+   "type": "text"
+  }
+ ],
+ "paragraphsBySubtopic": {
+  "Hisbonen!": [
+   {
+    "text": "This is a beta version of Hisbonen! (!הִתְבּוֹנֵן), ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<img src=\"/_assets/exclamation.png\" alt=\"Logo\" style=\"display: block; height: 205px; width: 205; float: right; margin-left: 10px; margin-right: -100px\">"
+   },
+   {
+    "text": " a tool for improving ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<br>"
+   },
+   {
+    "text": " Gemara skills. ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Clicking links adds further paragraphs to the page.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can learn ",
+        "type": "text"
+       },
+       {
+        "text": "the second chapter of _Meseches Kiddushin_,<br> _Ha’ish Mekadesh_",
+        "type": "global",
+        "tokens": [
+         {
+          "text": "the second chapter of ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Meseches Kiddushin",
+            "type": "text"
+           }
+          ]
+         },
+         {
+          "text": ",",
+          "type": "text"
+         },
+         {
+          "type": "html_element",
+          "html": "<br>"
+         },
+         {
+          "text": " ",
+          "type": "text"
+         },
+         {
+          "type": "italics",
+          "tokens": [
+           {
+            "text": "Ha’ish Mekadesh",
+            "type": "text"
+           }
+          ]
+         }
+        ],
+        "targetSubtopic": "Ha’ish Mekadesh",
+        "targetTopic": "Ha’ish Mekadesh",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Hisbonen!"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can also ",
+        "type": "text"
+       },
+       {
+        "text": "learn more about the Hisbonen! project",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "learn more about the Hisbonen! project",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Learn more about the Hisbonen! project",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Hisbonen!"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Learn more about the Hisbonen! project": [
+   {
+    "text": "You can learn more about the Hisbonen! project: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hisbonen! has a ",
+        "type": "text"
+       },
+       {
+        "text": "dedication",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "dedication",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Dedication",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "disclaimers",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "disclaimers",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Disclaimers",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ", ",
+        "type": "text"
+       },
+       {
+        "text": "acknowledgements",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "acknowledgements",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Acknowledgements",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ", and ",
+        "type": "text"
+       },
+       {
+        "text": "status",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "status",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Status",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can submit feedback with ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSclr0B1tknEZb6xUY07zHOcP0SURogv6daE6Vuls0NErZlWWA/viewform?usp=sf_link",
+        "text": "Google forms",
+        "tokens": [
+         {
+          "text": "Google forms",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": " or ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "mailto:admin@hisbonen.org?subject=Feedback",
+        "text": "by email",
+        "tokens": [
+         {
+          "text": "by email",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can sign up for occasional ",
+        "type": "text"
+       },
+       {
+        "text": "email updates",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "email updates",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Email updates",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "You can download the Hisbonen! ",
+        "type": "text"
+       },
+       {
+        "text": "desktop app",
+        "type": "local",
+        "tokens": [
+         {
+          "text": "desktop app",
+          "type": "text"
+         }
+        ],
+        "targetSubtopic": "Desktop app",
+        "targetTopic": "Hisbonen!",
+        "enclosingTopic": "Hisbonen!",
+        "enclosingSubtopic": "Learn more about the Hisbonen! project"
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hisbonen! is built using ",
+        "type": "text"
+       },
+       {
+        "type": "url",
+        "url": "https://github.com/canopy-js/canopy-js",
+        "text": "Canopy.js",
+        "tokens": [
+         {
+          "text": "Canopy.js",
+          "type": "text"
+         }
+        ]
+       },
+       {
+        "text": ".",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Acknowledgements": [
+   {
+    "text": "Hisbonen! was made possible by the assistance of many individuals.",
+    "type": "text"
+   }
+  ],
+  "Disclaimers": [
+   {
+    "text": "Hisbonen! has various disclaimers: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hisbonen! is published without expert endorsement and is a product of novice efforts.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Persons wishing to improve their Gemara skills who have the resources should enroll in a full-time yeshiva program. Short of that, such people should find a Gemara rebbe with whom they can form a relationship and learn from directly. Hisbonen! is intended for individuals who lack these resources, or as a tool for reviewing content already learned in a yeshiva setting.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Individuals should ask their communal rabbinic advisors if Hisbonen! is the appropriate tool for their learning.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "text": "Hisbonen! can be downloaded and used without an internet connection, and the existence of a web interface does not represent an endorsement of internet use.",
+        "type": "text"
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Status": [
+   {
+    "text": "Hisbonen is currently being released on a single sugya in ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "kiddushin",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " as a proof of concept, and pending feedback on that, the next milestone might be to release on a larger unit of text such as a perek.",
+    "type": "text"
+   }
+  ],
+  "Email updates": [
+   {
+    "type": "html_element",
+    "html": "<!-- MailerLite Universal -->"
+   },
+   {
+    "type": "html_element",
+    "html": "<script>(function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[]).push(arguments);},l=d.createElement(e),l.async=1,l.src=u,n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})(window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');ml('account', '281081');</script>"
+   },
+   {
+    "type": "html_element",
+    "html": "<!-- End MailerLite Universal -->"
+   },
+   {
+    "type": "html_element",
+    "html": "<br>"
+   },
+   {
+    "type": "html_element",
+    "html": "<div id=\"email_updates\" class=\"ml-embedded\" data-form=\"OW1QxJ\"></div>"
+   },
+   {
+    "text": " ",
+    "type": "text"
+   },
+   {
+    "type": "html_element",
+    "html": "<div id=\"email_updates_offline\"></div>"
+   }
+  ],
+  "Desktop app": [
+   {
+    "text": "You can download the Hisbonen! desktop app for different platforms here: ",
+    "type": "text"
+   },
+   {
+    "topLevelNodes": [
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "type": "url",
+        "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-darwin-x64-1.0.0.zip",
+        "text": "For Mac",
+        "tokens": [
+         {
+          "text": "For Mac",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "type": "url",
+        "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0.Setup.exe",
+        "text": "For Windows (exe)",
+        "tokens": [
+         {
+          "text": "For Windows (exe)",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "type": "url",
+        "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-1.0.0-full.nupkg",
+        "text": "For Windows (nupkg)",
+        "tokens": [
+         {
+          "text": "For Windows (nupkg)",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "type": "url",
+        "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/Hisbonen-linux-x64-1.0.0.zip",
+        "text": "For Linux x64",
+        "tokens": [
+         {
+          "text": "For Linux x64",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     },
+     {
+      "ordinal": "-",
+      "ordered": false,
+      "tokensOfLine": [
+       {
+        "type": "url",
+        "url": "https://github.com/hisbonen/hisbonen/releases/download/latest/hisbonen_1.0.0_amd64.deb",
+        "text": "For AMD 64 / Debian",
+        "tokens": [
+         {
+          "text": "For AMD 64 / Debian",
+          "type": "text"
+         }
+        ]
+       }
+      ],
+      "children": []
+     }
+    ],
+    "type": "outline"
+   }
+  ],
+  "Dedication": [
+   {
+    "text": "Hisbonen! is dedicated to the memory of Rav Dov Zemmel z'l, a talmid muvak of R Chayim Pinchas Scheinberg, who taught dozens of talmidim to learn Gemara in an authentic and accurate way. This tool is inspired by the ",
+    "type": "text"
+   },
+   {
+    "type": "italics",
+    "tokens": [
+     {
+      "text": "derech halimud",
+      "type": "text"
+     }
+    ]
+   },
+   {
+    "text": " he imparted to his talmidim.",
+    "type": "text"
+   }
+  ]
+ }
+}
